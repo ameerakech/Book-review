@@ -142,9 +142,8 @@ h2{
 
 .form-fill{
     border: solid 1px;
-    width: 50%;
+    width: 100%;
     height: 12cm;
-    margin-left: 3cm;
     background-color: cadetblue;
     
 }
@@ -179,21 +178,7 @@ background-color: rgba(0, 0, 255, 0.336);
 .form-info{
     display: flex;
 }
-.phonecall{
-    margin-left: 1cm;
-    margin-top: 0.5cm;
-    font-size: 150%;
-}
-.location{
-    margin-left: 1cm; 
-    margin-top: 1cm;
-    font-size: 150%;
-}
-.envolope{
-    margin-left: 1cm;
-    margin-top: 1cm;
-    font-size: 130%;
-}
+
 
 .icons{
     display: flex;
